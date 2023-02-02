@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/debmalya-portfolio/static/css/main.317565b1.css",
+    "main.js": "/debmalya-portfolio/static/js/main.a1605eba.js",
+    "static/media/CV.pdf": "/debmalya-portfolio/static/media/CV.cbc20e8e06046cfaf4cd.pdf",
+    "static/media/ME.png": "/debmalya-portfolio/static/media/ME.435704336a5c3923bfd8.png",
+    "static/media/Me.jpg": "/debmalya-portfolio/static/media/Me.f050266344bf459dcab9.jpg",
+    "static/media/notes.png": "/debmalya-portfolio/static/media/notes.610f6eb5205aeda75649.png",
+    "static/media/bg-texture.jpg": "/debmalya-portfolio/static/media/bg-texture.30588aa88aa77ca000e7.jpg",
+    "index.html": "/debmalya-portfolio/index.html",
+    "main.317565b1.css.map": "/debmalya-portfolio/static/css/main.317565b1.css.map",
+    "main.a1605eba.js.map": "/debmalya-portfolio/static/js/main.a1605eba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.317565b1.css",
+    "static/js/main.a1605eba.js"
+  ]
+}
